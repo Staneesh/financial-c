@@ -8,7 +8,7 @@ Make sure you install the `nix` package manager, which can be done via the follw
 sh <(curl -L https://nixos.org/nix/install) --daemon
 ```
 
-Afterwards, you can run the without even having to check out the repository:
+Afterwards, you can run the code without even having to check out the repository:
 ```bash
 nix run github:staneesh/financial-c
 ```
